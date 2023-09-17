@@ -1,0 +1,23 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    background-color: lightgray;
+}
+  
+h1 {
+    color: #333;
+}
+
+input {
+    border-radius: 8px;
+    width: 64px;
+    height: 32px;
+}
+  
+button {
+    padding: 10px 20px;
+    border-radius: 8px;
+    cursor: pointer;
+    background-color: white;
+}
+  
